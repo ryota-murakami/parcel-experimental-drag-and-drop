@@ -1,0 +1,25 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: cornsilk 1px solid;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.left-box {
+  border: coral 1px solid;
+  width: 300px;
+  height: 300px;
+}
+
+.right-box {
+  border
+}

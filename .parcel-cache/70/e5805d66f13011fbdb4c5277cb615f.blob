@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/parcel-experimental-drag-and-drop.d9086b18.css">
+  <title>Title</title>
+</head>
+<body>
+<div id="root">
+  <div class="container">
+      <div class="left-box"></div>
+      <div class="draggable-element" ondrag="">
+        <div class="draggable-element-text">I'm draggable!</div>
+      </div>
+      <div class="right-box"></div>
+  </div>
+</div>
+</body>
+</html>

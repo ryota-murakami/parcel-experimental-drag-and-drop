@@ -1,0 +1,16 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: cornsilk 1px solid;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=parcel-experimental-drag-and-drop.d9086b18.css.map */
